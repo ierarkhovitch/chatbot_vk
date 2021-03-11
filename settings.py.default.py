@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-GROUP_ID = '194123454'
+GROUP_ID = ''
 TOKEN = ''
 
 LIST_OF_FLIGHTS = [
